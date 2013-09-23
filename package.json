@@ -1,0 +1,24 @@
+{
+  "name": "mongoose-slugger",
+  "version": "0.0.1",
+  "description": "make slugs.",
+  "main": "./lib/index.js",
+  "repository": "git://github.com/originalmachine/mongoose-slugger.git",
+  "dependencies": {
+	  "string": "latest",
+	  "mongoose": "latest"
+  },
+  "devDependencies": {
+	  "dox": "latest",
+	  "mocha": "latest",
+	  "chai": "latest"
+  },
+  "author": {
+	  "name": "Nicholas Young",
+	  "email": "dev@originalmachine.com",
+	  "url": "http://dev.originalmachine.com"
+  },
+  "scripts": {
+	  "test": "make test"
+  }
+}
