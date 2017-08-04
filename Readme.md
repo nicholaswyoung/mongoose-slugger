@@ -1,5 +1,7 @@
 # Mongoose Slugger
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/nicholaswyoung/mongoose-slugger.svg)](https://greenkeeper.io/)
+
 Knock your models out of the park, with easy to use Slugs.
 
 ## License
